@@ -1,0 +1,5 @@
+Contact: mailto:isfrostly+security@gmail.com
+Expires: 2027-10-07T00:00:00.000Z
+Policy: https://nekoff.github.io/meridian-legal/security.html
+Preferred-Languages: en, de, ru
+Canonical: https://nekoff.github.io/meridian-legal/.well-known/security.txt
